@@ -8,6 +8,6 @@ public class StatisticsServiceTest {
     @Test
     void testAddition() {
         int result = 1 + 1;
-        Assertions.assertEquals(3, result);
+        Assertions.assertEquals(2, result);
     }
 }
